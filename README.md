@@ -20,7 +20,7 @@ A DankMaterialShell widget for displaying Islamic prayer times using the Aladhan
 ### From Plugin Registry (Recommended)
 
 ```bash
-# dms plugins install prayerTimes
+# hype plugins install prayerTimes
 # or install using the plugins tab on DMS settings
 ```
 
